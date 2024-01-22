@@ -2,7 +2,7 @@ Hello 👋, I'm João Silva, but you can call me Silva
 <p>
 
   I have been passionate about computers since I was little, and I decided to turn this passion into my work.
-
+<p>
   I am currently an information technology student, focused on learning more and more!
 
 I like playing games in my free time, and also watching movies!
