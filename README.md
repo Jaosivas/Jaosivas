@@ -1,6 +1,6 @@
-Hello 👋, I'm João Silva, but you can call me Silva
-  I have been passionate about computers since I was little, and I decided to turn this passion into my work.
-  I am currently an information technology student, focused on learning more and more!I like playing games in my free time, and also watching movies!
+Hello 👋, I'm João Silva, but you can call me Silva.
+<p></p>  I have been passionate about computers since I was little, and I decided to turn this passion into my work.
+  <p></p>I am currently an information technology student, focused on learning more and more!I like playing games in my free time, and also watching movies!
 <div align="center">
 
   ![Matrix](https://github.com/Jaosivas/Jaosivas/assets/86584504/c47ca149-6efc-485c-8fad-4430ee14f935)
